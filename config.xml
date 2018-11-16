@@ -51,7 +51,8 @@
 		  <preference name="LoadUrlTimeoutValue" value="null" />
       <preference name="phonegap-version" value="cli-7.1.0" />
       <preference name="AndroidPersistentFileLocation" value="Compatibility" />
-       <edit-config file="app/src/main/AndroidManifest.xml" target="/manifest/application" mode="merge"/>
+      <preference name="android-minSdkVersion" value="24" />
+
 
 
       <icon src="www/res/icon/icon.png" />
