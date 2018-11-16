@@ -50,7 +50,7 @@
 		  <preference name="LoadingDialog" value="," />
 		  <preference name="LoadUrlTimeoutValue" value="null" />
 
-      <icon src="res/icon.png" />
+      <icon src="res/icon/icon.png" />
 		  <allow-intent href="http://*/*" />
 		  <allow-intent href="https://*/*" />
 		  <allow-intent href="tel:*" />
