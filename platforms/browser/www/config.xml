@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="1" id="it.iluoghidellarete.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>I Luoghi della Rete</name>
+    <description>A basic Framework7 template for PhoneGap.		</description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">Apache Cordova Team		</author>
+    <preference name="windows-identity-name" value="" />
+    <access origin="*" />
+    <icon src="www/res/icon/icon.png" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="*://*.iluoghidellarete.it/*" />
+    <allow-intent href="*://*politicheantidroga.gov.it/*" />
+    <preference name="orientation" value="default" />
+    <preference name="fullscreen" value="true" />
+    <preference name="target-device" value="universal" />
+    <preference name="webviewbounce" value="true" />
+    <preference name="prerendered-icon" value="false" />
+    <preference name="stay-in-webview" value="true" />
+    <preference name="ios-statusbarstyle" value="default" />
+    <preference name="detect-data-types" value="true" />
+    <preference name="exit-on-suspend" value="true" />
+    <preference name="show-splash-screen-spinner" value="true" />
+    <preference name="auto-hide-splash-screen" value="true" />
+    <preference name="FadeSplashScreen " value="true" />
+    <preference name="EnableViewportScale" value="false" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="TopActivityIndicator" value="white" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="true" />
+    <preference name="KeyboardShrinksView " value="true" />
+    <preference name="HideKeyboardFormAccessoryBar" value="true" />
+    <preference name="SuppressesIncrementalRendering" value="false" />
+    <preference name="SplashScreenDelay" value="2000" />
+    <preference name="ErrorUrl" value="null" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="LoadingDialog" value="," />
+    <preference name="LoadUrlTimeoutValue" value="null" />
+    <preference name="phonegap-version" value="cli-7.1.0" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="android-build-tool" value="gradle" />
+    <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-targetSdkVersion" value="26" />
+    <preference name="android-installLocation" value="auto" />
+</widget>
