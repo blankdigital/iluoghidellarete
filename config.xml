@@ -16,9 +16,9 @@
 		  <feature name="http://api.phonegap.com/1.0/media" />
 		  <feature name="http://api.phonegap.com/1.0/network" />
 		  <feature name="http://api.phonegap.com/1.0/notification" />
-		  <plugin name="cordova-plugin-console"  />
+		 <!-- <plugin name="cordova-plugin-console"  />
 		  <plugin name="cordova-android-support-gradle-release" />
-		  <plugin name="cordova-plugin-statusbar"  />
+		  <plugin name="cordova-plugin-statusbar"  /> -->
 		  <preference name="orientation" value="default" />
 		  <preference name="fullscreen" value="true" />
 		  <preference name="target-device" value="universal" />
