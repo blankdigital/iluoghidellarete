@@ -49,7 +49,7 @@
 		  <preference name="DisallowOverscroll" value="true" />
 		  <preference name="LoadingDialog" value="," />
 		  <preference name="LoadUrlTimeoutValue" value="null" />
-      <preference name="phonegap-version" value="cli-8.0.0" />
+      <preference name="phonegap-version" value="cli-8.1.1" />
       <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 
       <icon src="www/res/icon/icon.png" />
