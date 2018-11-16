@@ -45,7 +45,7 @@
 		  <preference name="android-installLocation" value="auto" />
 		  <preference name="SplashScreenDelay" value="2000" />
 		  <preference name="ErrorUrl" value="null" />
-		  <preference name="BackgroundColor" value="0x000000" />
+		  <!-- <preference name="BackgroundColor" value="0x000000" /> -->
 		  <preference name="DisallowOverscroll" value="true" />
 		  <preference name="LoadingDialog" value="," />
 		  <preference name="LoadUrlTimeoutValue" value="null" />
