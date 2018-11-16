@@ -50,6 +50,9 @@
 		  <preference name="LoadUrlTimeoutValue" value="null" />
       <preference name="phonegap-version" value="cli-7.1.0" />
       <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    
+      <access origin="*" />
+
       
     <!-- Android only -->
       <preference name="android-build-tool" value="gradle" />
